@@ -2,3 +2,5 @@
 /nlp.stanford.edu/
 /.ipynb_checkpoints/
 /venv/
+/saved_models/
+/Eval.ipynb
